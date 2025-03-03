@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thales Amaral</h1>
 <h3 align="center">
-  A passionate developer from Brazil<br>
-  Graduating in Computer Science with a focus on full stack
+  A passionate developer from Brazil, graduating in Computer Science
 </h3>
 
 <h2>Comments:</h2>
@@ -28,8 +27,8 @@
 
   <h3>Programming Languages</h3>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
   <h3>Database & Others</h3>
@@ -39,10 +38,13 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </div>
 
+<br><br>
+
 <div align="center">
   <h1>GitHub Stats:</h1>
-  <p><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=thalesamaral&show_icons=true&theme=dark&locale=en&layout=compact" alt="thalesamaral"/></p>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=thalesamaral&theme=dark" alt="thalesamaral" /></p>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=thalesamaral&show_icons=true&theme=dark&locale=en&layout=compact" alt="thalesamaral"/>
   
-  <p><img src="https://github-readme-stats.vercel.app/api?username=thalesamaral&show_icons=true&theme=dark&locale=en" alt="thalesamaral" /></p>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=thalesamaral&theme=dark&hide_border=false" alt="thalesamaral" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=thalesamaral&show_icons=true&theme=dark&locale=en" alt="thalesamaral" />
 </div>
