@@ -8,7 +8,7 @@
   <ul>
     <li>🌱 I’m currently learning <b>A Full Stack Roadmap</b></li>
     <li>🔭 I’m currently working on <a href="https://github.com/thalesamaral/Rocketseat-Full_Stack.git">Rocketseat course</a></li>
-    <li>🤝 I’m looking for help with <a href="https://github.com/thalesamaral/fsw-food.git">fsw-food</a></li>
+<!--     <li>🤝 I’m looking for help with <a href="https://github.com/thalesamaral/fsw-food.git">fsw-food</a></li> -->
   </ul>
 </div>
 
