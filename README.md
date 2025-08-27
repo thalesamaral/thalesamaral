@@ -1,60 +1,67 @@
 <h1 align="center">Hi 👋, I'm Thales Amaral</h1>
 <h3 align="center">
-  A passionate developer from Brazil, graduating in Computer Science
+  Full Stack Developer in progress | Computer Science Graduate from Brazil
 </h3>
 
-<div>
-  <h2>Comments:</h2>
-  <ul>
-    <li>🌱 I’m currently learning <b>A Full Stack Roadmap</b></li>
-    <li>🔭 I’m currently working on <a href="https://github.com/thalesamaral/Rocketseat-Full_Stack.git">Rocketseat course</a></li>
-<!--     <li>🤝 I’m looking for help with <a href="https://github.com/thalesamaral/fsw-food.git">fsw-food</a></li> -->
-  </ul>
-</div>
+<p align="center">
+  Passionate about building modern and accessible web applications.<br/>
+  Currently focused on <b>React, Next.js, TypeScript, Node.js, PrismaORM</b>, with responsive UI using <b>TailwindCSS & Shadcn/ui</b>.
+</p>
 
-<div>
-  <h2>Connect with me:</h2>
-  <a href="https://www.linkedin.com/in/thales-amaral-lima"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>
-  <a href="mailto:thaleslima225@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" title="Thales Amaral#0416" alt="Discord Badge" height="25"></a>
-  <a href="https://www.github.com/thalesamaral"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>
-</div>
+---
 
-<br>
-<div>
-  <h1>Knowledge & Skills:</h1>
-  <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <div>
-      <h3>Frontend Development</h3>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-    </div>
-    <div>
-      <h3>Programming Languages</h3>
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    </div>
-    <div>
-      <h3>Database & Others</h3>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    </div>
-  </div>
-</div>
+## 🌐 Connect with me
 
-<br>
-<div>
-  <h1>GitHub Stats:</h1>
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=thalesamaral&show_icons=true&theme=dark&locale=en&layout=compact" alt="thalesamaral"/>
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=thalesamaral&show_icons=true&theme=dark&locale=en" alt="thalesamaral" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=thalesamaral&theme=dark&hide_border=false" alt="thalesamaral" />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thales-amaral-lima)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thaleslima225@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/thalesamaral)
+
+---
+
+## 🚀 Featured Projects
+
+- [Rocketseat Full Stack](https://github.com/thalesamaral/Rocketseat-Full_Stack) - I’m currently learning and practicing on this course.
+
+- [Gamestore](https://github.com/thalesamaral/gamestore-v1) – E-commerce web project focused on games and peripherals.  
+<!-- - **Barbershop Scheduler** – Scheduling system built with Next.js, PrismaORM, and Tailwind.   -->
+<!-- - [Hogwarts Quiz](https://github.com/thalesamaral/Hogwarts-House-Quiz) – Interactive web quiz using OOP in JavaScript. -->
+
+*(Check out more on my [GitHub Repositories](https://github.com/thalesamaral?tab=repositories))*
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) 
+![Shadcn/ui](https://img.shields.io/badge/shadcn/ui-black?style=flat)
+
+**Backend & Databases:**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) 
+![PrismaORM](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) 
+
+**Programming Languages:**  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+
+**Others:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) 
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalesamaral&layout=compact&theme=dark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thalesamaral&show_icons=true&theme=dark)
+
+---
