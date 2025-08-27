@@ -21,9 +21,9 @@
 
 - [Rocketseat Full Stack](https://github.com/thalesamaral/Rocketseat-Full_Stack) - I’m currently learning and practicing on this course.
 
-- [Gamestore](https://github.com/thalesamaral/gamestore-v1) – E-commerce web project focused on games and peripherals.  
+- [Gamestore](https://github.com/thalesamaral/gamestore-v1) - E-commerce web project focused on games and peripherals.  
 <!-- - **Barbershop Scheduler** – Scheduling system built with Next.js, PrismaORM, and Tailwind.   -->
-<!-- - [Hogwarts Quiz](https://github.com/thalesamaral/Hogwarts-House-Quiz) – Interactive web quiz using OOP in JavaScript. -->
+- [Projeto disciplinar](https://github.com/thalesamaral/UCB/tree/main/07-Programacao_WEB/Projeto_AT2) - [Hogwarts House Quiz](https://thalesamaral.github.io/UCB/07-Programacao_WEB/Projeto_AT2) - Interactive web quiz using OOP in JavaScript.
 
 *(Check out more on my [GitHub Repositories](https://github.com/thalesamaral?tab=repositories))*
 
