@@ -5,7 +5,6 @@
 
 <p align="center">
   Passionate about building modern and accessible web applications.<br/>
-  Currently focused on <b>React, Next.js, TypeScript, Node.js, PrismaORM</b>, with responsive UI using <b>TailwindCSS & Shadcn/ui</b>.
 </p>
 
 ---
